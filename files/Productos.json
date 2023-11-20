@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Champiñón",
+        "description": "Hongo comestible de sabor suave.",
+        "price": 8.99,
+        "thumbnail": "./champinon.jpg",
+        "code": "CHM001",
+        "stock": 50,
+        "id": 1
+    },
+    {
+        "title": "Portobello",
+        "description": "Variedad grande y carnosa del champiñón.",
+        "price": 12.99,
+        "thumbnail": "./portobello.jpg",
+        "code": "PTB002",
+        "stock": 30,
+        "id": 2
+    },
+    {
+        "title": "Shiitake",
+        "description": "Hongo de origen asiático con sabor distintivo.",
+        "price": 14.99,
+        "thumbnail": "./shiitake.jpg",
+        "code": "SHT003",
+        "stock": 45,
+        "id": 3
+    },
+    {
+        "title": "Maitake",
+        "description": "Hongo con forma de abanico y textura suave.",
+        "price": 10.99,
+        "thumbnail": "./maitake.jpg",
+        "code": "MTK004",
+        "stock": 20,
+        "id": 4
+    },
+    {
+        "title": "Ostra",
+        "description": "Hongo con sabor agradable y textura delicada.",
+        "price": 9.99,
+        "thumbnail": "./ostra.jpg",
+        "code": "OST005",
+        "stock": 35,
+        "id": 5
+    },
+    {
+        "title": "Enoki",
+        "description": "Hongo de tallo largo y sombrero pequeño.",
+        "price": 7.99,
+        "thumbnail": "./enoki.jpg",
+        "code": "ENK006",
+        "stock": 25,
+        "id": 6
+    },
+    {
+        "title": "Reishi",
+        "description": "Hongo medicinal con propiedades beneficiosas.",
+        "price": 18.99,
+        "thumbnail": "./reishi.jpg",
+        "code": "RSH007",
+        "stock": 15,
+        "id": 7
+    },
+    {
+        "title": "Cordyceps",
+        "description": "Hongo utilizado en la medicina tradicional china.",
+        "price": 22.99,
+        "thumbnail": "./cordyceps.jpg",
+        "code": "CPS008",
+        "stock": 12,
+        "id": 8
+    },
+    {
+        "title": "Chanterelle",
+        "description": "Hongo de sabor afrutado y textura firme.",
+        "price": 15.99,
+        "thumbnail": "./chanterelle.jpg",
+        "code": "CHT009",
+        "stock": 18,
+        "id": 9
+    },
+    {
+        "title": "Morel",
+        "description": "Hongo de forma única y sabor intenso.",
+        "price": 19.99,
+        "thumbnail": "./morel.jpg",
+        "code": "MRL010",
+        "stock": 22,
+        "id": 10
+    }
+]
